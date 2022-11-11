@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ASandroSilva
+- 👋 Hi, I’m Alex Sandro
 - 👀 I’m interested in ... aprender programação, Arduíno e todos os assuntos relacionados.
 - 🌱 I’m currently learning ... Linguagem C e Arduíno.
 - 💞️ I’m looking to collaborate on ... compartilhar o meu aprendizado.
